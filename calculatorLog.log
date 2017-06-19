@@ -1,0 +1,167 @@
+2017-06-18 19:20:26 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:20:26 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:20:26 INFO  Calculator:84 - Expression is split into: [let, a, let, b, 10, add, b, b, let, b, 20, add, a, b]
+2017-06-18 19:20:26 INFO  Calculator:114 - got LET
+2017-06-18 19:20:26 INFO  Calculator:114 - got LET
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 10
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 10
+2017-06-18 19:20:26 INFO  Calculator:195 - let function generates: 10
+2017-06-18 19:20:26 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 10
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 10
+2017-06-18 19:20:26 INFO  Calculator:147 - add function generates: 20
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 10
+2017-06-18 19:20:26 INFO  Calculator:195 - let function generates: 10
+2017-06-18 19:20:26 INFO  Calculator:114 - got LET
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 20
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 20
+2017-06-18 19:20:26 INFO  Calculator:195 - let function generates: 20
+2017-06-18 19:20:26 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 20
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 20
+2017-06-18 19:20:26 INFO  Calculator:147 - add function generates: 40
+2017-06-18 19:20:26 INFO  Calculator:86 - Final value of the expression 40
+2017-06-18 19:20:26 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:20:26 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:20:26 INFO  Calculator:84 - Expression is split into: [add, 1, 2]
+2017-06-18 19:20:26 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 1
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 2
+2017-06-18 19:20:26 INFO  Calculator:147 - add function generates: 3
+2017-06-18 19:20:26 INFO  Calculator:86 - Final value of the expression 3
+2017-06-18 19:20:26 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:20:26 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:20:26 INFO  Calculator:84 - Expression is split into: [mult, add, 2, 2, div, 9, 3]
+2017-06-18 19:20:26 INFO  Calculator:106 - got MULTIPLICATION
+2017-06-18 19:20:26 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 2
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 2
+2017-06-18 19:20:26 INFO  Calculator:147 - add function generates: 4
+2017-06-18 19:20:26 INFO  Calculator:110 - got DIVISION
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 9
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 3
+2017-06-18 19:20:26 INFO  Calculator:180 - div function generates: 3
+2017-06-18 19:20:26 INFO  Calculator:169 - mult function generates: 12
+2017-06-18 19:20:26 INFO  Calculator:86 - Final value of the expression 12
+2017-06-18 19:20:26 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:20:26 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:20:26 ERROR Calculator:75 - expression string in calculator class is null or empty, program exiting
+2017-06-18 19:20:26 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:20:26 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:20:26 INFO  Calculator:84 - Expression is split into: [let, a, 5, let, b, mult, a, 10, add, b, a]
+2017-06-18 19:20:26 INFO  Calculator:114 - got LET
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 5
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 5
+2017-06-18 19:20:26 INFO  Calculator:195 - let function generates: 5
+2017-06-18 19:20:26 INFO  Calculator:114 - got LET
+2017-06-18 19:20:26 INFO  Calculator:106 - got MULTIPLICATION
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 5
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 10
+2017-06-18 19:20:26 INFO  Calculator:169 - mult function generates: 50
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 10
+2017-06-18 19:20:26 INFO  Calculator:195 - let function generates: 10
+2017-06-18 19:20:26 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 50
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 5
+2017-06-18 19:20:26 INFO  Calculator:147 - add function generates: 55
+2017-06-18 19:20:26 INFO  Calculator:86 - Final value of the expression 55
+2017-06-18 19:20:26 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:20:26 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:20:26 INFO  Calculator:84 - Expression is split into: [add, 1, mult, 2, 3]
+2017-06-18 19:20:26 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 1
+2017-06-18 19:20:26 INFO  Calculator:106 - got MULTIPLICATION
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 2
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 3
+2017-06-18 19:20:26 INFO  Calculator:169 - mult function generates: 6
+2017-06-18 19:20:26 INFO  Calculator:147 - add function generates: 7
+2017-06-18 19:20:26 INFO  Calculator:86 - Final value of the expression 7
+2017-06-18 19:20:26 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:20:26 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:20:26 INFO  Calculator:84 - Expression is split into: [let, a, 5, add, 5, a]
+2017-06-18 19:20:26 INFO  Calculator:114 - got LET
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 5
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 5
+2017-06-18 19:20:26 INFO  Calculator:195 - let function generates: 5
+2017-06-18 19:20:26 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:20:26 INFO  Calculator:127 - number detected 5
+2017-06-18 19:20:26 INFO  Calculator:123 - array value detected: 5
+2017-06-18 19:20:26 INFO  Calculator:147 - add function generates: 10
+2017-06-18 19:20:26 INFO  Calculator:86 - Final value of the expression 10
+2017-06-18 19:22:34 INFO  Driver:18 - program starting
+2017-06-18 19:22:34 INFO  Driver:24 - Entered Expression add(200,9)
+2017-06-18 19:22:34 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:22:34 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:22:34 INFO  Calculator:84 - Expression is split into: [add, 200, 9]
+2017-06-18 19:22:34 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:22:34 INFO  Calculator:127 - number detected 200
+2017-06-18 19:22:34 INFO  Calculator:127 - number detected 9
+2017-06-18 19:22:34 INFO  Calculator:147 - add function generates: 209
+2017-06-18 19:22:34 INFO  Calculator:86 - Final value of the expression 209
+2017-06-18 19:22:34 INFO  Driver:29 - Final value of the expression add(200,9)=209
+2017-06-18 19:26:05 INFO  Driver:18 - program starting
+2017-06-18 19:26:05 INFO  Driver:24 - Entered Expression mult(add(2,
+2017-06-18 19:26:05 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:26:05 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:26:05 INFO  Calculator:84 - Expression is split into: [mult, add, 2]
+2017-06-18 19:26:05 INFO  Calculator:106 - got MULTIPLICATION
+2017-06-18 19:26:05 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:26:05 INFO  Calculator:127 - number detected 2
+2017-06-18 19:26:57 INFO  Driver:18 - program starting
+2017-06-18 19:26:57 INFO  Driver:24 - Entered Expression mult(add(2,2),div(9,3))
+2017-06-18 19:26:57 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:26:57 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:26:57 INFO  Calculator:84 - Expression is split into: [mult, add, 2, 2, div, 9, 3]
+2017-06-18 19:26:57 INFO  Calculator:106 - got MULTIPLICATION
+2017-06-18 19:26:57 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:26:57 INFO  Calculator:127 - number detected 2
+2017-06-18 19:26:57 INFO  Calculator:127 - number detected 2
+2017-06-18 19:26:57 INFO  Calculator:147 - add function generates: 4
+2017-06-18 19:26:57 INFO  Calculator:110 - got DIVISION
+2017-06-18 19:26:57 INFO  Calculator:127 - number detected 9
+2017-06-18 19:26:57 INFO  Calculator:127 - number detected 3
+2017-06-18 19:26:57 INFO  Calculator:180 - div function generates: 3
+2017-06-18 19:26:57 INFO  Calculator:169 - mult function generates: 12
+2017-06-18 19:26:57 INFO  Calculator:86 - Final value of the expression 12
+2017-06-18 19:26:57 INFO  Driver:29 - Final value of the expression mult(add(2,2),div(9,3))=12
+2017-06-18 19:27:36 INFO  Driver:18 - program starting
+2017-06-18 19:27:36 INFO  Driver:24 - Entered Expression let(a,5,add(a,a))
+2017-06-18 19:27:36 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:27:36 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:27:36 INFO  Calculator:84 - Expression is split into: [let, a, 5, add, a, a]
+2017-06-18 19:27:36 INFO  Calculator:114 - got LET
+2017-06-18 19:27:36 INFO  Calculator:127 - number detected 5
+2017-06-18 19:27:36 INFO  Calculator:127 - number detected 5
+2017-06-18 19:27:36 INFO  Calculator:195 - let function generates: 5
+2017-06-18 19:27:36 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:27:36 INFO  Calculator:123 - array value detected: 5
+2017-06-18 19:27:36 INFO  Calculator:123 - array value detected: 5
+2017-06-18 19:27:36 INFO  Calculator:147 - add function generates: 10
+2017-06-18 19:27:36 INFO  Calculator:86 - Final value of the expression 10
+2017-06-18 19:27:36 INFO  Driver:29 - Final value of the expression let(a,5,add(a,a))=10
+2017-06-18 19:28:28 INFO  Driver:18 - program starting
+2017-06-18 19:28:28 INFO  Driver:24 - Entered Expression let(a,let(b,10,add(b,b)),let(b,20,add(a,b))
+2017-06-18 19:28:28 INFO  Calculator:34 - Created a Calculator
+2017-06-18 19:28:28 INFO  Calculator:72 - Calculator class executing
+2017-06-18 19:28:28 INFO  Calculator:84 - Expression is split into: [let, a, let, b, 10, add, b, b, let, b, 20, add, a, b]
+2017-06-18 19:28:28 INFO  Calculator:114 - got LET
+2017-06-18 19:28:28 INFO  Calculator:114 - got LET
+2017-06-18 19:28:28 INFO  Calculator:127 - number detected 10
+2017-06-18 19:28:28 INFO  Calculator:127 - number detected 10
+2017-06-18 19:28:28 INFO  Calculator:195 - let function generates: 10
+2017-06-18 19:28:28 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:28:28 INFO  Calculator:123 - array value detected: 10
+2017-06-18 19:28:28 INFO  Calculator:123 - array value detected: 10
+2017-06-18 19:28:28 INFO  Calculator:147 - add function generates: 20
+2017-06-18 19:28:28 INFO  Calculator:123 - array value detected: 10
+2017-06-18 19:28:28 INFO  Calculator:195 - let function generates: 10
+2017-06-18 19:28:28 INFO  Calculator:114 - got LET
+2017-06-18 19:28:28 INFO  Calculator:127 - number detected 20
+2017-06-18 19:28:28 INFO  Calculator:127 - number detected 20
+2017-06-18 19:28:28 INFO  Calculator:195 - let function generates: 20
+2017-06-18 19:28:28 INFO  Calculator:98 - got ADDITION
+2017-06-18 19:28:28 INFO  Calculator:123 - array value detected: 20
+2017-06-18 19:28:28 INFO  Calculator:123 - array value detected: 20
+2017-06-18 19:28:28 INFO  Calculator:147 - add function generates: 40
+2017-06-18 19:28:28 INFO  Calculator:86 - Final value of the expression 40
+2017-06-18 19:28:28 INFO  Driver:29 - Final value of the expression let(a,let(b,10,add(b,b)),let(b,20,add(a,b))=40
