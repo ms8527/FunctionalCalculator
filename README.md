@@ -4,7 +4,7 @@ Command Line Java Calculator
 Created a Maven project and implemented 3 levels of verbosity: INFO, ERROR, and DEBUG.  
 By adding log4j.properties file src/main/resources
 
-## How to use
+## Steps to work on:
 Eclipse IDE is used, Maven is used to import any dependencies.
 Compile the project using > *mvn compile
 test and compile the test class > *mvn test-compile
@@ -13,11 +13,11 @@ Build project or use the command line:> *mvn clean compile assembly:single*
 Finally create the jar using >*mvn install
 
 
-## How to run in Eclipse IDE
+## How to execute in Eclipse IDE:
 Create the project SynopsysCalculator and having Main.java file for starting it's execution
 For program arguments has to be set, set "add(1,2)"
 
-## Example Run on the command line
+## Steps to run on the command line:
 Use the Executable jar generated.
 Open the commnad prompt and go it to the location where jar is saved for me it's desktop 
 C:\Users\DRYPSAHANI\Desktop>
@@ -35,7 +35,7 @@ Final value of the expression let(a, let(b, 10, add(b, b)), let(b, 20, add(a, b)
 Test case has been written junit
 TestCalculator for the test cases written in class in src/test/java for unit tests.
 
-##Other Example Data:
+##Some more set of Examples:
 "add(1,mult(2,3))"                    //equals 7
 
 "mult(add(2,2),div(9,3))"             //equals 12
