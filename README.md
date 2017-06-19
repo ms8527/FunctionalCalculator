@@ -31,12 +31,15 @@ C:\Users\DRYPSAHANI\Desktop>
 
 And run the following command by passing the expression as argument and see the desired result.
 java -jar SynopsysCalculator.jar "add(1,2)"
+
 Result> Final value of the expression add(1,2)=3
 
 java -jar SynopsysCalculator.jar "let(a, 5, add(a, a))"
+
 Result> Final value of the expression let(a, 5, add(a, a))=10
 
 java -jar SynopsysCalculator.jar "let(a, let(b, 10, add(b, b)), let(b, 20, add(a, b))"
+
 Result> Final value of the expression let(a, let(b, 10, add(b, b)), let(b, 20, add(a, b))=40
 
 ## Test case:
